@@ -3,7 +3,7 @@ Cordova Sharing
 
 Sample HTML5 app with Cordova sharing plugin that show how text or files can be shared with other apps like Facebook, Twitter, SMS or Email.
 
-This app can be built to install on iOS or Android using [Intel XDK](http://xdk.intel.com), the facebook and twitter sharing will pop open native controls to share directly from app on iOS device, In android it will open facebook/twitter app to share. It also has a option to slide up a view with all sharing options.
+This app can be built to install on iOS or Android using [Intel XDK](http://xdk.intel.com), the facebook and twitter sharing will pop open native controls to share directly from the app without having to jump out of the app. It also has a option to slide up a view with all sharing options.
 
 This sample app uses the `Social Sharing` Cordova plugin from [EddyVerbruggen](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)
 
